@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Declamatio in laudem nobilissimæ artis medicinæ. = A declamacion in the prayse and co[m]me[n]dation 
+
 #####Body#####
-Declamatio in laudem nobilissimæ artis medicinæ. = A declamacion in the prayse and co[m]me[n]dation 
+
+1. The prayse of Phisyke.
+
 #####Back#####
-Declamatio in laudem nobilissimæ artis medicinæ. = A declamacion in the prayse and co[m]me[n]dation 
+Imprynted at London in Fletestrete by me Robert Redman dwellynge at the sygne of the George / nexte 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
